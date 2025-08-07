@@ -1,5 +1,8 @@
 # Te acalma que eu ainda tô organizando os paranauês aqui.. 👋
 
+👩‍💻 WHOAMI
+---
+
 🎯 Em transição de carreira para Cibersegurança | Cloud
 
 🎓 Participo do programa **AWS re/Start** | Foco: AWS Certified Cloud Practitioner  
