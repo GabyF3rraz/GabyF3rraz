@@ -1,9 +1,9 @@
-# Olá, eu sou Gabriela Ferraz!
+# Te acalma que eu ainda tô organizando os paranauês aqui.. 👋
 
-🎯 Em transição de carreira para Cloud | Cibersegurança  
-🎓 Participante do programa **AWS re/Start** | Foco: AWS Certified Cloud Practitioner  
-💼 Experiência nas áreas administrativa e atendimento, agora migrando para tecnologia  
-🌐 Interesse em segurança ofensiva e defensiva, ambientes Linux, Python e automação
+🎯 Em transição de carreira para Cibersegurança | Cloud
+🎓 Participo do programa **AWS re/Start** | Foco: AWS Certified Cloud Practitioner  
+💼 Tenho experiência nas áreas administrativa e de atendimento 
+🌐 Me interesso por IAM, Linux, Python, automação
 
 ---
 
