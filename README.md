@@ -1,6 +1,6 @@
 # Olá, eu sou Gabriela Ferraz!
 
-🎯 Em transição de carreira para Cloud e Cibersegurança  
+🎯 Em transição de carreira para Cloud | Cibersegurança  
 🎓 Participante do programa **AWS re/Start** | Foco: AWS Certified Cloud Practitioner  
 💼 Experiência nas áreas administrativa e atendimento, agora migrando para tecnologia  
 🌐 Interesse em segurança ofensiva e defensiva, ambientes Linux, Python e automação
