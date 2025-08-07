@@ -1,8 +1,11 @@
 # Te acalma que eu ainda tô organizando os paranauês aqui.. 👋
 
 🎯 Em transição de carreira para Cibersegurança | Cloud
+
 🎓 Participo do programa **AWS re/Start** | Foco: AWS Certified Cloud Practitioner  
+
 💼 Tenho experiência nas áreas administrativa e de atendimento 
+
 🌐 Me interesso por IAM, Linux, Python, automação
 
 ---
